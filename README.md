@@ -11,12 +11,12 @@ This analysis evaluates consumer fitness behaviors and decisions by examining a 
 The study focuses on understanding the influence of various motivational, enjoyment, and community connection aspects on key decisions such as exercising more, purchasing fitness products, joining a gym, and changing dietary habits. The findings will help identify critical elements that affect fitness behaviors and decisions, providing insights that can be used to enhance fitness programs, products, and policies to improve consumer health and well-being.
 
 ## Files
-<a href="https://github.com/nisodump/csst-104-finals/blob/main/01_Title_Page_ML.pdf" target="_blank">1. Title Page</a>
-<a href="https://github.com/nisodump/csst-104-finals/blob/main/02_Table_of_Contents_ML.pdf" target="_blank">2. Table of Contents</a>
-<a href="https://github.com/nisodump/csst-104-finals/blob/main/03_Main_Page_ML.pdf" target="_blank">3. Main Page (Documentation)</a>
-<a href="https://htmlpreview.github.io/?https://github.com/nisodump/csst-104-finals/blob/main/Fitness_Consumer_Analysis.html" target="_blank">4. Code Snippet PDF</a>
-<a href="https://github.com/nisodump/csst-104-finals/blob/main/05_Sample_Dataset_Content.csv" target="_blank">5. Sample Dataset Content</a>
-<a href="https://colab.research.google.com/drive/1GvWsWECFTKWwOTcXmrHUKFa_O0XFzL4V?usp=sharing" target="_blank">6. Google Colab Link</a>
+<a href="https://github.com/nisodump/csst-104-finals/blob/main/01_Title_Page_ML.pdf" target="_blank">1. Title Page</a><br>
+<a href="https://github.com/nisodump/csst-104-finals/blob/main/02_Table_of_Contents_ML.pdf" target="_blank">2. Table of Contents</a><br>
+<a href="https://github.com/nisodump/csst-104-finals/blob/main/03_Main_Page_ML.pdf" target="_blank">3. Main Page (Documentation)</a><br>
+<a href="https://htmlpreview.github.io/?https://github.com/nisodump/csst-104-finals/blob/main/Fitness_Consumer_Analysis.html" target="_blank">4. Code Snippet PDF</a><br>
+<a href="https://github.com/nisodump/csst-104-finals/blob/main/05_Sample_Dataset_Content.csv" target="_blank">5. Sample Dataset Content</a><br>
+<a href="https://colab.research.google.com/drive/1GvWsWECFTKWwOTcXmrHUKFa_O0XFzL4V?usp=sharing" target="_blank">6. Google Colab Link</a><br>
 <a href="https://htmlpreview.github.io/?https://github.com/nisodump/csst-104-finals/blob/main/Fitness_Consumer_Analysis.html" target="_blank">7. Code Snippet HTML and Jupyter Preview</a>
 
 ## Conclusion
