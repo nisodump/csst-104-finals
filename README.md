@@ -1,6 +1,7 @@
 # Fitness Consumer Analysis
 
 **Submitted by:** Neil Ivan S. Orencia
+
 **Section:** BSCS-3A
 
 This analysis evaluates consumer fitness behaviors and decisions by examining a range of demographic, socioeconomic, and engagement parameters. By analyzing the dataset, we aim to uncover how factors such as age, gender, education level, occupation, exercise frequency, duration of wearable device usage, and frequency of tracking fitness data impact individuals' fitness-related decisions and outcomes. 
