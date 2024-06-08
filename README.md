@@ -10,6 +10,9 @@ This analysis evaluates consumer fitness behaviors and decisions by examining a 
 
 The study focuses on understanding the influence of various motivational, enjoyment, and community connection aspects on key decisions such as exercising more, purchasing fitness products, joining a gym, and changing dietary habits. The findings will help identify critical elements that affect fitness behaviors and decisions, providing insights that can be used to enhance fitness programs, products, and policies to improve consumer health and well-being.
 
+## Files
+<a href="https://htmlpreview.github.io/?https://github.com/nisodump/csst-104-finals/blob/main/Fitness_Consumer_Analysis.html" target="_blank">Code Snippet and Jupyter Preview</a>
+
 ## Conclusion
 
 ### Visual Insights
